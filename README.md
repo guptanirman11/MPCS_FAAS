@@ -9,7 +9,6 @@ The project comprised two main components: MPCSFaaS service (handling REST API a
 
 ### Requirements
 - Implemented in Python 3.
-- Team project (up to two students).
 - No use of existing FaaS libraries.
 - Utilized FastAPI, ZMQ, and Redis.
 - Complied with the provided test suite.
